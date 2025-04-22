@@ -18,7 +18,7 @@ let difficultyInterval
 
 // Game settings
 const GAME_SETTINGS = {
-  initialEnemySpawnRate: 500,
+  initialEnemySpawnRate: 2500,
   minimumEnemySpawnRate: 500,
   difficultyIncreaseInterval: 10000, // 10 seconds
   powerUpChance: 0.05,
