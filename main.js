@@ -20,9 +20,9 @@ let difficultyInterval
 const GAME_SETTINGS = {
   initialEnemySpawnRate: 2500,
   minimumEnemySpawnRate: 500,
-  difficultyIncreaseInterval: 10000, // 10 seconds
+  difficultyIncreaseInterval: 25000, // 10 seconds
   powerUpChance: 0.05,
-  maxEnemiesOnScreen: 30
+  maxEnemiesOnScreen: 15
 }
 
 // Colors
